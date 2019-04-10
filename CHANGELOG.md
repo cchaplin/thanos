@@ -11,6 +11,10 @@ We use *breaking* word for marking changes that are not backward compatible (rel
 
 ## Unreleased
 
+## [v0.4.0](https://github.com/improbable-eng/thanos/releases/tag/v0.4.0) - 2019.04.12
+
+TODO(bwplotka): Go through commits and update changelog.
+
 ### Added
 - [#811](https://github.com/improbable-eng/thanos/pull/811) Remote write receiver
 - [#798](https://github.com/improbable-eng/thanos/pull/798) Ability to limit the maximum concurrent about of Series() calls in Thanos Store and the maximum amount of samples.
